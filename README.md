@@ -24,4 +24,4 @@ npm run dev
 ✨ Animations
 👩‍💻 Author
 
-Your Name | GitHub: https://github.com/your-username
+Your Name | GitHub: https://github.com/priyanka2905p
